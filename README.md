@@ -47,17 +47,17 @@ I specialize in extracting insights from structured data and building interactiv
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Rajeshkumar0707&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshkumar0707&layout=compact&theme=default)
-
----
-
 # 🎯 Currently Learning
 - Advanced SQL (Joins, Window Functions)  
 - Data Visualization Best Practices  
 - Business Case Studies & KPI Analysis  
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Rajeshkumar0707&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshkumar0707&layout=compact&theme=default)
 
 ---
 
